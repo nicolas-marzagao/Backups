@@ -1,0 +1,12 @@
+TRABALHO DE ANIMAÇÃO 2D
+
+Artigos:
+- https://dl.acm.org/doi/abs/10.1145/218380.218417
+- https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.310
+
+
+Refrences
+
+Fekete, Jean-Daniel, et al. "TicTacToon: A paperless system for professional 2D animation." Proceedings of the 22nd annual conference on Computer graphics and interactive techniques. 1995.
+
+Baxter, William, Pascal Barla, and Ken Anjyo. "N‐way morphing for 2D animation." Computer Animation and Virtual Worlds 20.2‐3 (2009): 79-87.
